@@ -1,9 +1,0 @@
-composer create-project laravel/laravel 
-php artisan serve
-php artisan make:model employee -m
-
-php artisan migrate
-
-php artisan make:controller 
-
-php artisan make:request
